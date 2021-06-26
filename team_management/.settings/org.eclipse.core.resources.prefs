@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/ssm/component/data/controller/DataController.java=UTF-8
+encoding//src/com/ssm/component/formation/controller/FormationCtroller.java=UTF-8
+encoding//src/com/ssm/component/memo/controller/MemoController.java=UTF-8
+encoding//src/com/ssm/component/summary/controller/SummaryController.java=UTF-8
+encoding//src/com/ssm/component/train/controller/TrainController.java=UTF-8
+encoding//src/com/ssm/component/tuser/controller/TuserController.java=UTF-8
+encoding//src/com/ssm/framework/commonDao/BaseDao.java=UTF-8
